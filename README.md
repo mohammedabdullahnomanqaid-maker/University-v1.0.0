@@ -20,7 +20,10 @@
   <a href="#-technology">Technology</a>
   •
   <a href="#-project-structure">Structure</a>
+</p> .
+  <a href="#-Timeline">Structure</a>
 </p>
+
 
 ---
 
@@ -88,6 +91,14 @@ The application brings the main student management operations into a single inte
     │
     ├── Universityico.ico
     └── README.md
+
+---
+
+## 📅 Timeline
+
+| Version | Start Date | End Date | Language |
+|:---:|:---:|:---:|:---:|
+| **v1.0.0** | 2026/03/04 | 2026/03/05 | C# |
 
 ---
 
