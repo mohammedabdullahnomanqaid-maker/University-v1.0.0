@@ -21,7 +21,7 @@
   •
   <a href="#-project-structure">Structure</a>
 </p> .
-  <a href="#-Timeline">Structure</a>
+  <a href="#-Timeline">Timeline</a>
 </p>
 
 
