@@ -20,10 +20,10 @@
   <a href="#-technology">Technology</a>
   •
   <a href="#-project-structure">Structure</a>
-</p> .
+.
   <a href="#-Timeline">Timeline</a>
 </p>
-
+</p>
 
 ---
 
